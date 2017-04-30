@@ -1,5 +1,6 @@
 # [MenMen] ()
 
+[link to MenMen App](http://menmen.herokuapp.com)
 
 ## Description
 MenMen is an online scheduler. Students can login and select the avaialble office hours open with any teacher they choose. Teachers can login and create office hours for students to register.
